@@ -6,11 +6,6 @@
 import json
 import os
 from datetime import datetime
-"""
-    #take date 
-    saat_ini = datetime.now()
-    tgl_jam = saat_ini.strftime("%d/%m/%Y, %H:%M:%S")  # format dd/mm/YY H:M:S
-"""
 ADRESS_FILE = 'D:/PERKULIAHAN/BelajarPython/pythonParprog/data.json'
 
 
