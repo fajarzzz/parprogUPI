@@ -1,0 +1,27 @@
+{
+    "nama": "",
+    "nik": "",
+    "surel": "",
+    "hp": "",
+    "tabungan": 100000,
+    "hutang": 0,
+    "saldo": {
+        "awal": 200000,
+        "pendapatan": {
+            "saku": 1000000,
+            "gaji": 3000000,
+            "lain": 2000000
+        },
+        "pengeluaran": {
+            "pendidikan": 1000000,
+            "f&d": 5000000,
+            "kebutuhan": 0,
+            "rt": 0,
+            "transport": 0,
+            "cicilan": 0,
+            "asuransi": 0,
+            "lain": 0
+        }
+    },
+    "transaksi": []
+}
